@@ -1,0 +1,30 @@
+{
+  "name": "@xiaoyaner/openclaw-serpapi-search",
+  "version": "1.0.0",
+  "description": "SerpApi search provider plugin for OpenClaw with vertical search routing (Google, News, Scholar, Images, Shopping, Maps, Jobs, Finance, Patents, YouTube, Bing, Baidu, Yandex)",
+  "keywords": [
+    "openclaw",
+    "plugin",
+    "search",
+    "serpapi",
+    "google",
+    "vertical-search",
+    "news",
+    "scholar",
+    "images",
+    "shopping"
+  ],
+  "license": "MIT",
+  "author": "千乘妍 <dongsjoa@gmail.com>",
+  "type": "module",
+  "main": "index.ts",
+  "files": [
+    "index.ts",
+    "openclaw.plugin.json",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoyaner0201/openclaw-serpapi-search"
+  }
+}

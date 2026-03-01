@@ -1,0 +1,21 @@
+{
+  "id": "serpapi-search",
+  "name": "SerpApi Search Provider",
+  "description": "SerpApi search provider with vertical search routing (News, Scholar, Images, Shopping, Maps, Jobs, Finance, Patents, YouTube, and alternative engines)",
+  "entry": "./index.ts",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "apiKey": {
+        "type": "string",
+        "description": "SerpApi API key"
+      },
+      "defaultEngine": {
+        "type": "string",
+        "description": "Default search engine when none specified (e.g. google, news, scholar, images, shopping, maps)",
+        "default": "google"
+      }
+    }
+  }
+}
