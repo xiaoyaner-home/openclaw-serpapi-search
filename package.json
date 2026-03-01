@@ -1,5 +1,5 @@
 {
-  "name": "@xiaoyaner/openclaw-serpapi-search",
+  "name": "openclaw-serpapi-search",
   "version": "1.0.0",
   "description": "SerpApi search provider plugin for OpenClaw with vertical search routing (Google, News, Scholar, Images, Shopping, Maps, Jobs, Finance, Patents, YouTube, Bing, Baidu, Yandex)",
   "keywords": [
@@ -15,7 +15,7 @@
     "shopping"
   ],
   "license": "MIT",
-  "author": "千乘妍 <dongsjoa@gmail.com>",
+  "author": "\u5343\u4e58\u598d <dongsjoa@gmail.com>",
   "type": "module",
   "main": "index.ts",
   "files": [

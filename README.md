@@ -35,7 +35,7 @@ An [OpenClaw](https://github.com/openclaw/openclaw) plugin that adds [SerpApi](h
 ### Via npm (recommended)
 
 ```bash
-openclaw plugins install @xiaoyaner/openclaw-serpapi-search
+openclaw plugins install openclaw-serpapi-search
 ```
 
 ### Manual (local path)
